@@ -1,0 +1,18 @@
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\bin\Debug\ApimonNBayati.exe.config
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\bin\Debug\ApimonNBayati.exe
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\bin\Debug\ApimonNBayati.pdb
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.csprojResolveAssemblyReference.cache
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.Form1.resources
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.Properties.Resources.resources
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.csproj.GenerateResource.Cache
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.exe
+c:\users\delliran\documents\visual studio 2015\Projects\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.pdb
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\bin\Debug\ApimonNBayati.exe.config
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.exe
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.pdb
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\bin\Debug\ApimonNBayati.exe
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\bin\Debug\ApimonNBayati.pdb
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.csprojResolveAssemblyReference.cache
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.Form1.resources
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.Properties.Resources.resources
+C:\Users\DELLIRAN\Documents\IUST\Compiler\tamrin\eventviewerBayati\ApimonNBayati\ApimonNBayati\obj\Debug\ApimonNBayati.csproj.GenerateResource.Cache
